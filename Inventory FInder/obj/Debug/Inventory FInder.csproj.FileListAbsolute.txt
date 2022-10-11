@@ -1,0 +1,12 @@
+C:\Users\edgar\source\repos\Inventory FInder\bin\Debug\Inventory FInder.exe.config
+C:\Users\edgar\source\repos\Inventory FInder\bin\Debug\Inventory FInder.exe
+C:\Users\edgar\source\repos\Inventory FInder\bin\Debug\Inventory FInder.pdb
+C:\Users\edgar\source\repos\Inventory FInder\obj\Debug\Inventory FInder.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\Inventory FInder\obj\Debug\Inventory FInder.csproj.SuggestedBindingRedirects.cache
+C:\Users\edgar\source\repos\Inventory FInder\obj\Debug\Inventory_FInder.Form1.resources
+C:\Users\edgar\source\repos\Inventory FInder\obj\Debug\Inventory_FInder.Properties.Resources.resources
+C:\Users\edgar\source\repos\Inventory FInder\obj\Debug\Inventory FInder.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\Inventory FInder\obj\Debug\Inventory FInder.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\Inventory FInder\obj\Debug\Inventory FInder.exe
+C:\Users\edgar\source\repos\Inventory FInder\obj\Debug\Inventory FInder.pdb
+C:\Users\edgar\source\repos\Inventory FInder\obj\Debug\Inventory_FInder.Form2.resources
